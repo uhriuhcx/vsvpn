@@ -9,5 +9,16 @@
     "trafficUsedBytes": 0,
     "isActive": true,
     "createdAt": "2026-09-23T18:03:14Z"
+  },
+  {
+    "id": "usr_admin_001",
+    "username": "admin",
+    "email": "admin@visionvpn.net",
+    "password": "admin",
+    "role": "ADMIN",
+    "trafficLimitGb": 1000,
+    "trafficUsedBytes": 104857600,
+    "isActive": true,
+    "createdAt": "2026-09-23T18:26:47Z"
   }
 ]
