@@ -9,5 +9,16 @@
     "trafficUsedBytes": 104857600,
     "isActive": true,
     "createdAt": "2026-09-23T14:20:00Z"
+  },
+  {
+    "id": "usr_1790173993654",
+    "username": "LFnighTT",
+    "email": "ltfyamyry0@gmail.com",
+    "password": "Amirali.1388",
+    "role": "USER",
+    "trafficLimitGb": 50,
+    "trafficUsedBytes": 0,
+    "isActive": true,
+    "createdAt": "2026-09-23T18:03:13Z"
   }
 ]
