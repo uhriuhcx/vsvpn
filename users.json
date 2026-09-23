@@ -1,16 +1,5 @@
 [
   {
-    "id": "usr_admin_001",
-    "username": "admin",
-    "email": "admin@visionvpn.net",
-    "password": "admin",
-    "role": "ADMIN",
-    "trafficLimitGb": 1000,
-    "trafficUsedBytes": 104857600,
-    "isActive": true,
-    "createdAt": "2026-09-23T18:00:42Z"
-  },
-  {
     "id": "usr_1790173993654",
     "username": "LFnighTT",
     "email": "ltfyamyry0@gmail.com",
